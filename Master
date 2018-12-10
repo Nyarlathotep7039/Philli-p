@@ -1,3 +1,3 @@
 #Master
 
-System.out.println(Bob);
+System.out.println("Bob");
